@@ -1,0 +1,17 @@
+
+An online Hotel Booking and Management System using PHP, MySQL, HTML5 and CSS. This was made to demonstrate web-designing and database-programming skills.
+
+Features
+
+    Basic Forms like Sign-Up and Sign-In
+    Four different room types and limited rooms
+    Algorithm to check room availability between entered dates
+    Keep record of previous bookings and payment details of all users
+    Save previous due, advance payment and current due
+
+Running the Project
+
+    Install XAMPP
+    Copy 'bookHotel' folder to htdocs
+    Run XAMPP and open the web page using browser - localhost/bookHotel/index.php
+
